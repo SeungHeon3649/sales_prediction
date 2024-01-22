@@ -58,3 +58,9 @@
   - y값 또한 MinMaxScaler로 정규화 진행 후 0에 잘 수렴하는 형상을 보여주며 로스값 또한 잡을 수 있었음
 - 학습시에 y값을 정규화 진행하고 학습이 완료된 이후에 사용시에는 x값을 입력해주면 스케일 적용된 y값 도출
 - 도출된 y값을 역변환 해주면 예측된 매출의 값을 볼 수 있음
+
+# 실행 영상
+
+
+https://github.com/SeungHeon3649/sales_prediction/assets/94602281/a8d8ca3c-97fe-4f54-b788-c8ae971cec0e
+
